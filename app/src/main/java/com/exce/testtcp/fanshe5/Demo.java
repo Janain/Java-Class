@@ -28,5 +28,6 @@ public class Demo {
         for (Object obj : strList) {
             System.out.println(obj);
         }
+
     }
 }

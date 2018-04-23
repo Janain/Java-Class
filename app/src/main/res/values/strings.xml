@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">testtcp</string>
+    <!--tab键切换-->
+    <string name="text_home">主页</string>
+    <string name="text_adress">联系人</string>
+    <string name="text_message">信息</string>
+    <string name="text_mine">个人中心</string>
 </resources>
